@@ -1,0 +1,20 @@
+{
+  "name": "prework-about-me",
+  "version": "1.0.0",
+  "description": "* This website is a static HTML website using semantic tags and minimal CSS. \r * It is currently hosted on Github Pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shdonas/prework-about-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shdonas/prework-about-me/issues"
+  },
+  "homepage": "https://github.com/shdonas/prework-about-me#readme"
+}
